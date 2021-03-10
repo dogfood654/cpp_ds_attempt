@@ -1,0 +1,5 @@
+Problems faced:
+
+1. how to make a class that gets initial value to create size of array
+2. how to make a void function that allows filled to ++ itself
+3. how to delete array and redo to make it bigger
